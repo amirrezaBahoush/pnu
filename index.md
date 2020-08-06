@@ -67,6 +67,6 @@ I am studying computer engineering at PNU University
 - 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
 
 ### Other Accounts
-  Quera: https://quera.ir/profile/amir_bhsh
+  Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a>
   
-  Linkedin: https://www.linkedin.com/in/amirreza-bahoush-b09078152/
+  Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a>
