@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/amirrezaBahoush/pnu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Amiireza Bahoush, Im  a Frontend Developer and i love my job.
+I am studying computer engineering at PNU University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
++ Javascript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ HTML5
+
++ Styling( CSS3 - Sass - Less - BEM - Styled Components)
+
++ UI Libraries( Bootstrap - Material UI - Antd)
+
++ React js
+
++ React Hooks
+
++ React Context
+
++ Redux 
+
++ ES6
+
++ JQuery
+
++ Websocket
+
++ Axios
+
++ Webpack
+
++ Gulp js
+
++ Docker
+
++ Ubuntu
+
++ Unit Testing (Jestjs - Enzyme)
+
++ UX Design
+
++ Git
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### Working Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 1 year work at Khatam high school as Math Teacher
 
-### Jekyll Themes
+- 9 months at Sooran Argham Fanavar Pardis as Frontend Developer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirrezaBahoush/pnu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Accounts
+  Quera: https://quera.ir/profile/amir_bhsh
+  
+  Linkedin: https://www.linkedin.com/in/amirreza-bahoush-b09078152/
