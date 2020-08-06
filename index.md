@@ -43,7 +43,6 @@ I am studying computer engineering at PNU University
 
 + Git
 
-```markdown
 ### Licenses & Certifications
 - Introduction to Programming Using HTML and CSS (Tehran Institute of Technology)
 
@@ -59,7 +58,6 @@ I am studying computer engineering at PNU University
 
 - Javascript Toturial Course (Solo Learn)
 
-```
 ### Working Experience
 
 - 1 year work at Khatam high school as Math Teacher
