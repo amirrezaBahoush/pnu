@@ -44,6 +44,20 @@ I am studying computer engineering at PNU University
 + Git
 
 ```markdown
+### Licenses & Certifications
+- Introduction to Programming Using HTML and CSS (Tehran Institute of Technology)
+
+- Introduction to Programming Using JavaScript (Tehran Institute of Technology)
+
+- bootstrap4 & LESS & SCSS (Tehran Institute of Technology)
+
+- Wordpress (Tehran Institute of Technology)
+
+- React & React Native (Faratar Az Danesh)
+
+- UX Design (Amanj Academy)
+
+- Javascript Toturial Course (Solo Learn)
 
 ```
 ### Working Experience
