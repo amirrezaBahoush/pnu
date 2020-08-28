@@ -3,7 +3,8 @@
 ### About Me
 
 I am Amiireza Bahoush, Im  a Frontend Developer and i love my job.
-I am studying computer engineering at PNU University
+I am studying computer engineering at PNU University.
+I want learning new things every day.
 
 ### Personal Information
 
@@ -81,6 +82,11 @@ I am studying computer engineering at PNU University
 - 9 months at Sooran Argham Fanavar Pardis as Frontend Developer
 
 - 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
+
+### Projects
+- http://www.htdf.ir/ project in sooran argham fanavar pardis
+- https://amenu.ir/  project in cotint group
+- https://viruspod.ir/ project in future wave ultratech
 
 ### Titles and Honors
   nothing
