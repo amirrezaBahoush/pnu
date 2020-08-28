@@ -44,6 +44,12 @@ I am studying computer engineering at PNU University
 
 + Git
 
+### Languages
+
+- Persian(Advanced)
+
+- English(Intermediate)
+
 ### Licenses & Certifications
 - Introduction to Programming Using HTML and CSS (Tehran Institute of Technology)
 
@@ -71,3 +77,5 @@ I am studying computer engineering at PNU University
   Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a>
   
   Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a>
+  
+  Persian Resume: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> Resume </a>
