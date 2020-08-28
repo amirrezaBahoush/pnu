@@ -82,6 +82,9 @@ I am studying computer engineering at PNU University
 
 - 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
 
+### Titles and Honors
+  nothing
+
 ### Other Accounts
   Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a>
   
