@@ -84,9 +84,8 @@ I want learning new things every day.
 - 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
 
 ### Projects
-- http://www.htdf.ir/ project in sooran argham fanavar pardis
-- https://amenu.ir/  project in cotint group
-- https://viruspod.ir/ project in future wave ultratech
+- <a href="http://www.htdf.ir/"> HTDF </a> project in sooran argham fanavar pardis
+- <a href="https://viruspod.ir/"> VIRUSPOD </a> https://viruspod.ir/ project in future wave ultratech
 
 ### Titles and Honors
   nothing
