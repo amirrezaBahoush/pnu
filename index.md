@@ -56,6 +56,8 @@ I want learning new things every day.
 
 + Git
 
++ Gitlab-CI
+
 ### Languages
 
 - Persian(Advanced)
@@ -75,7 +77,7 @@ I want learning new things every day.
 
 - UX Design (Amanj Academy)
 
-- Javascript Toturial Course (Solo Learn)
+- Javascript Toturial Course (Solo Learn) Link: <a href="https://www.sololearn.com/Certificate/1024-18291469/pdf/">Cretificate</a>
 
 ### Working Experience
 
