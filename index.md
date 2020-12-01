@@ -56,7 +56,7 @@ I want learning new things every day.
 
 + Git
 
-+ Gitlab-CI
++ Gitlab CI
 
 ### Languages
 
@@ -85,7 +85,7 @@ I want learning new things every day.
 
 - 9 months at Sooran Argham Fanavar Pardis as Frontend Developer
 
-- 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
+- From 2019 October at Future Wave Ultratech as Frontend Developer ( and currently work at here)
 
 ### Projects
 - <a href="http://www.htdf.ir/"> HTDF </a> project in sooran argham fanavar pardis
