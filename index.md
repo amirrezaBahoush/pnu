@@ -1,6 +1,6 @@
 <img src="https://avatars3.githubusercontent.com/u/69066265?s=400&u=6f460ff2529b523ac7d1abbf6e7f101012a65a8d&v=4" />
 
-### Persian Resume: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> Resume </a>
+### Persian Resume: <a href="https://amirrezabahoush.github.io/resume-fa/"> Resume </a>
 
 ### About Me
 
@@ -99,4 +99,4 @@ I want learning new things every day.
   
   Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a>
   
-  Persian Resume: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> Resume </a>
+  Persian Resume: <a href="https://amirrezabahoush.github.io/resume-fa/"> Resume </a>
