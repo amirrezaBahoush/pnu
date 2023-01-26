@@ -19,7 +19,10 @@ I am Amirreza and I'm 26 years old. As a matter of fact, I have a bachelor's deg
 
 ### Skills
 
-Javascript (ES6+) | TypeScript | HTML5 | CSS3 | SCSS | Styled Components | BEM | Bootstrap | Material UI | Antd | React.js | Redux (Saga / Toolkit) | VueJS V2 | Next.js | GraphQL | Websocket | Axios | Webpack | Docker | Jest | React Testing Library | Git | Gitlab CI
+Javascript (ES6+) | TypeScript | React.js | Redux (Saga / Toolkit) | HTML5
+CSS3 | SCSS | Styled Components | BEM | Bootstrap | Material UI | Antd 
+VueJS V2 | Next.js | GraphQL | Websocket | Axios | Webpack | Docker 
+Jest | React Testing Library | Git | Gitlab CI
 
 ### Languages
 
