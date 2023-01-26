@@ -1,5 +1,6 @@
-<img src="https://avatars3.githubusercontent.com/u/69066265?s=400&u=6f460ff2529b523ac7d1abbf6e7f101012a65a8d&v=4" />
-
+<img src="https://avatars.githubusercontent.com/u/69066265?s=400&u=7bc0347d34ec1a1075b61e15ab20be5d832288c2&v=4
+" />
+<!-- https://avatars3.githubusercontent.com/u/69066265?s=400&u=6f460ff2529b523ac7d1abbf6e7f101012a65a8d&v=4 -->
 <!-- ### Persian Resume: <a href="https://amirrezabahoush.github.io/resume-fa/"> Resume </a> -->
 
 ### About Me
@@ -18,7 +19,7 @@ I am Amirreza and I'm 26 years old. As a matter of fact, I have a bachelor's deg
 
 ### Skills
 
-+ Javascript(ES6+) + TypeScript + HTML5 + CSS3 + SCSS + Styled Components + BEM + Bootstrap + Material UI + Antd + React.js + Redux (Saga / Toolkit) + VueJS V2 + Next.js + GraphQL + Websocket + Axios + Webpack + Docker + Jest + React Testing Library + Git + Gitlab CI
+Javascript (ES6+) | TypeScript | HTML5 | CSS3 | SCSS | Styled Components | BEM | Bootstrap | Material UI | Antd | React.js | Redux (Saga / Toolkit) | VueJS V2 | Next.js | GraphQL | Websocket | Axios | Webpack | Docker | Jest | React Testing Library | Git | Gitlab CI
 
 ### Languages
 
